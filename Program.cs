@@ -48,8 +48,6 @@ namespace Практика_6___задача_1
             {
                 Console.WriteLine("Ошибка работы с файлом: " + e.Message);
             }
-
-
         }
     }
 }   
